@@ -1,0 +1,17 @@
+config LAYER_ENDPOINT_P0
+    int ""
+
+config LAYER_ENDPOINT_P1
+    int ""
+
+config LAYER_ENDPOINT_P2
+    int ""
+
+config LAYER_ENDPOINT_P3
+    int ""
+
+config LAYER_ENDPOINT_P4
+    int ""
+
+config LAYER_ENDPOINT_P5
+    int ""
